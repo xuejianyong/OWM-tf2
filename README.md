@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OWM (Orthogonal Weights Modification)
 - Code for paper *[Continual Learning of Context-dependent Processing in Neural Networks](https://www.nature.com/articles/s42256-019-0080-x)*. You can also get the free version from https://rdcu.be/bOaa3
 
@@ -43,3 +44,8 @@
 
 
 
+=======
+# OWM-tf2
+
+This is a project aimed at reimplement the OWM model and the CDP model with updated tools.
+>>>>>>> e12ce7cc8ebdba7493c771ce21c34e9d78ad9f37
